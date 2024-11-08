@@ -2,7 +2,8 @@
 
 Hi, I'm Jack!
 
-By integrating big data processing technologies such as Python, MySQL, and Spark, I am building a "Computer Game Sales Forecasting Platform." This platform aims to predict the first month's sales of games through ML models and provide relevant game development recommendations. My main responsibility is data cleaning and analysis, offering insights on feature variables for the team responsible for model building. Finally, the results will be presented in Tableau to highlight the analysis's business value.
+By integrating big data processing technologies such as Python, MySQL, and Spark, I am building a "Computer Game Sales Forecasting Platform." This platform aims to predict the first month's sales of games through ML models and provide relevant game development recommendations. 
+My main responsibility is data cleaning and analysis, offering insights on feature variables for the team responsible for model building. Finally, the results will be presented in Tableau to highlight the analysis's business value.
 
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks

@@ -13,7 +13,8 @@ By integrating big data processing technologies such as Python, MySQL, and Spark
 - Tableau
 - Kubernates
 
-
+## 💡For more about me
+https://drive.google.com/drive/folders/1dLu4JaLj1FtbJgBBckC5BoihRFihI5Yz?usp=sharing
 <!--
 **RuiLin513/RuiLin513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
